@@ -1,2 +1,2 @@
 # PythonTraining
-Excerises could be helpful to increase your Python;)
+Excerises could be helpful to increase your Python level;)
